@@ -83,4 +83,4 @@ X-Sport là một ứng dụng web quản lý shop, bán các dụng cụ thể 
 ## 👊 Ủng hộ X - Sport
 - Bằng cách ⭐️ repo này nhé! ❤️
 ---
-_This README was generated with  ❤️  by _[enthusiasm, creativity, sense of responsibility]([https://github.com/bskhoa/Website-X-Sport])_
+_This README was generated with  ❤️  by _[enthusiasm, creativity, sense of responsibility](https://github.com/bskhoa/Website-X-Sport)_

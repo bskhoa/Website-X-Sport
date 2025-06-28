@@ -21,31 +21,25 @@ X-Sport là một ứng dụng web quản lý shop, bán các dụng cụ thể 
 <tr>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/x-sport/gif/01.gif"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 1</a>
     </p> </th>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/x-sport/gif/02.gif"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 2</a>
     </p> </th>
 </tr>
 <tr>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/x-sport/gif/03.gif"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 3</a>
     </p> </th>    
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/x-sport/gif/04.gif"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 4</a>
     </p> </th>
  </tr>
  <tr>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/x-sport/gif/05.gif"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 5</a>
     </p> </th>    
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/x-sport/gif/06.gif"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 6</a>
     </p> </th>
  </tr>
 </table>
